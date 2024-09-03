@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-  printf("\nallo\n");
+  printf("\nOlla\n");
   return 0;
 }
